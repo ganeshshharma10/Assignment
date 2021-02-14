@@ -32,6 +32,12 @@
 		    <artifactId>h2</artifactId>
 		    <scope>runtime</scope>
 		</dependency>
+		<dependency>
+  <groupId>org.apache.maven</groupId>
+  <artifactId>apache-maven</artifactId>
+  <version>3.6.3</version>
+  
+</dependency>
   </dependencies>
   <build>
     <finalName>TestExample</finalName>
